@@ -1,0 +1,12 @@
+{
+  "data": {
+    "type":"vars",
+    "attributes": {
+      "key":"AWS_SESSION_TOKEN",
+      "value":"IQoJb3JpZ2luX2VjENb//////////wEaDmFwLXNvdXRoZWFzdC0xIkYwRAIgFqyHs61g1M/EecMfg5zLh3lTRiCtUwj4Xa1QGJYNO9sCICc0/2nhJfhyNLdYv3dyrgns7Q6+08rv+/OA9+ozZwc5Kq4DCG8QABoMNzkyODA1NjExMjAyIgyHPhqU7upDBc4LDSUqiwNN0PCrdklbNnI2v5bRqPBHZM9anZ7hKtvCoPGXN8dv4FAfPVOgk0L9fLylszoVtBriG86E4qL9blIWPVsGiNO8I+WhNLrQIVCTFGTtCsmgk3WJZMxEMiHdybIBuQ/63TR32kNMbsJEGfmbt0WPDQkE1hNAbCIvY1JIjBjeCcakjJj2bCwzw6XuSBOXtwaOZOgqVGJR5fuLUgmZropA3fl1oR2iVcdtiwsmbn+ISDSAN9yUubuXBcw624KEj1tfm1bBAO24x/uOAqDgoUHF915X9iip36t/xhyKWTRYIDa+QAJEJcOrVOHyi0wVYKD7rg7Vcl0ZkLvEyf37Tju+3uDjxm7WWxzXtFmAR4piO0nmaLJZoVRbpmbBmc+rigakWbki5taZGIF/dF3EnuHidQP1w4oKo3208ESUBeydfPFp9YIVfv8hgcWRp12QEUlPkVy9Qmo7gx2GD5+152sB7T47bBAqJ4bFSkeueAzJ7iOdAiGS8wV11FCkVxXQMfdbCYYMOME2wVT3lJEE8DCYhtmsBjqnAZQeFHyBM56rxvP4L8HB7ZEnT/88Q35nn4LSh93sG+cqCUz8taM7mjs4Ecd/Ov/J/6uTmjU7V1zluYPrCRNm1Iex6FiWQY4c+Qqb8BJnlWcXT9Dvuh0DgNHRkzOq6NzrdRspdB3VFqLJlALyGUB9iaKKd8kKklF5u3WEjmA5wN6WIhC+o1gDq1cwFP0gnIiNgiXZVXNpaztl2DvFSWYm0VSl6fMeyg9m",
+      "category":"env",
+      "hcl":false,
+      "sensitive":true
+    }
+  }
+}
